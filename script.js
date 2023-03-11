@@ -1,3 +1,5 @@
+//Minha solução para o exercício proposto. 
+
 const imagens = document.querySelectorAll('.imagem');
 const botoes = document.querySelectorAll('.botao');
 
